@@ -6,7 +6,7 @@
 '''
 
 
-def MakeStars(cnt, max):
+def make_stars(cnt, max):
     space = ""
     outStr = ""
     i = 1
@@ -28,7 +28,7 @@ def MakeStars(cnt, max):
 num = int(input())
 
 for i in range(num - 1, 0, -1):
-    MakeStars(i, num)
+    make_stars(i, num)
 
 for i in range(0, num):
-    MakeStars(i, num)
+    make_stars(i, num)
