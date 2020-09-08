@@ -7,14 +7,11 @@
 '''
 
 fixed_cost, notebook_cost, sales_cost = map(int, input().split())
+ret = 0
 
-profit = fixed_cost * -1
-notebook_cnt = 0
+if sales_cost > notebook_cost:
+    ret = fixed_cost // (sales_cost - notebook_cost) + 1
+else:
+    ret = -1
 
-while profit <= 0:
-    notebook_cnt += 1
-
-    profit = sales_cost * notebook_cnt    
-    profit -= fixed_cost + notebook_cost * notebook_cnt    
-
-print(notebook_cnt)
+print(ret)
