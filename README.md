@@ -2,6 +2,9 @@ PythonStudy
 ===========
 # Python 학습을 위한 Repository
 ## 2020-09
+### 2020-09-12
+* 백준알고리즘(1011) 문제 - Fly me to the Alpha Centauri
+
 ### 2020-09-11
 * 백준알고리즘(2775) 문제 - 부녀회장이 될테야
 
