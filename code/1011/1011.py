@@ -9,7 +9,6 @@ from math import sqrt
 case = int(input())
 
 for _ in range(case):
-    print(case)
     start, end = map(int, input().split())
     diff = end - start
 
