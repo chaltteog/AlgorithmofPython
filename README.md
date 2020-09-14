@@ -2,6 +2,9 @@ PythonStudy
 ===========
 # Python 학습을 위한 Repository
 ## 2020-09
+### 2020-09-14
+* 백준알고리즘(2869) 문제 - 달팽이는 올라가고 싶다
+
 ### 2020-09-12
 * 백준알고리즘(1011) 문제 - Fly me to the Alpha Centauri
 
