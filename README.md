@@ -1,6 +1,6 @@
-PythonStudy
+AlgorithmofPython
 ===========
-# Python 학습을 위한 Repository
+# Algorithm(Python) 학습을 위한 Repository
 ## 2021-10
 ### 2021-10-26
 * programmers(42577) 문제 - 전화번호 목록
