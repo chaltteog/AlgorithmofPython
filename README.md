@@ -2,6 +2,9 @@ PythonStudy
 ===========
 # Python 학습을 위한 Repository
 ## 2021-10
+### 2021-10-26
+* programmers(42577) 문제 - 전화번호 목록
+
 ### 2021-10-25
 * programmers(42576) 문제 - 완주하지 못한 선수
 
