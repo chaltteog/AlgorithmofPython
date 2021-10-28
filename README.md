@@ -2,6 +2,9 @@ AlgorithmofPython
 ===========
 # Algorithm(Python) 학습을 위한 Repository
 ## 2021-10
+### 2021-10-28
+* programmers(42579) 문제 - 베스트 앨범
+
 ### 2021-10-27
 * programmers(42578) 문제 - 위장
 
