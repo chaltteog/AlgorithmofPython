@@ -2,8 +2,11 @@ AlgorithmofPython
 ===========
 # Algorithm(Python) 학습을 위한 Repository
 ## 2021-11
+### 2021-11-10
+* programmers(42747) 문제 - H-Index
+
 ### 2021-11-09
-* programmers(42748) 문제 - 가장 큰 수
+* programmers(42748) 문제 - K번째수
 
 ### 2021-11-03
 * programmers(42746) 문제 - 가장 큰 수
